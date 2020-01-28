@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.e262d13f.chunk.js",
+    "main.js.map": "/static/js/main.e262d13f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.114d30a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.114d30a8.js.map",
+    "static/js/2.742a9520.chunk.js": "/static/js/2.742a9520.chunk.js",
+    "static/js/2.742a9520.chunk.js.map": "/static/js/2.742a9520.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.65d522fb43502e76598ed5be54aaece5.js": "/precache-manifest.65d522fb43502e76598ed5be54aaece5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.742a9520.chunk.js.LICENSE": "/static/js/2.742a9520.chunk.js.LICENSE",
+    "static/media/hacker.gif": "/static/media/hacker.c643e700.gif",
+    "static/media/lazysundays.gif": "/static/media/lazysundays.9d8278c1.gif",
+    "static/media/master.jpeg": "/static/media/master.226759b8.jpeg",
+    "static/media/moonlightwave.gif": "/static/media/moonlightwave.f717813a.gif",
+    "static/media/shoes.gif": "/static/media/shoes.99b639b2.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.114d30a8.js",
+    "static/js/2.742a9520.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e262d13f.chunk.js"
+  ]
+}
